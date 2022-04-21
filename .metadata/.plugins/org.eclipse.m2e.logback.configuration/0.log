@@ -1,0 +1,4 @@
+2022-04-21 18:45:21,563 [Worker-37: Launching Executing clean in C__Users_PICHAU_Desktop_workspaces_projetoSpringBoot_course] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\PICHAU\Desktop\workspaces\projetoSpringBoot\course
+2022-04-21 18:45:21,566 [Worker-37: Launching Executing clean in C__Users_PICHAU_Desktop_workspaces_projetoSpringBoot_course] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2022-04-21 18:45:49,632 [Worker-35: Launching Executing clean in C__Users_PICHAU_Desktop_workspaces_projetoSpringBoot_course] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\PICHAU\Desktop\workspaces\projetoSpringBoot\course
+2022-04-21 18:45:49,633 [Worker-35: Launching Executing clean in C__Users_PICHAU_Desktop_workspaces_projetoSpringBoot_course] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
