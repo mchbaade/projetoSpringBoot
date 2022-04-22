@@ -1,0 +1,11 @@
+package com.example.course.entities.enums;
+
+public enum OrderStatus {
+
+	WATING_PAYMENT,
+	PAID,
+	SHIPPED,
+	DELIVERED,
+	CANCELED;
+	
+}
