@@ -39,4 +39,9 @@
 <fullyQualifiedTypeName name="com.example.course.repositories.CategoryRepository"/>
 <fullyQualifiedTypeName name="com.example.course.services.CategoryService"/>
 <fullyQualifiedTypeName name="com.example.course.entities.Category"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="com.example.course.repositories.ProductRepository"/>
+<fullyQualifiedTypeName name="com.example.course.entities.Product"/>
+<fullyQualifiedTypeName name="javax.persistence.Transient"/>
 </qualifiedTypeNameHistroy>
