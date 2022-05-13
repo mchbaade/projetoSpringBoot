@@ -21,7 +21,6 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
 <fullyQualifiedTypeName name="com.example.course.repositories.OrderRepository"/>
 <fullyQualifiedTypeName name="java.time.Instant"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
@@ -29,12 +28,10 @@
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat.Shape"/>
 <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 <fullyQualifiedTypeName name="com.example.course.entities.enums.OrderStatus"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="com.example.course.repositories.CategoryRepository"/>
 <fullyQualifiedTypeName name="com.example.course.services.CategoryService"/>
 <fullyQualifiedTypeName name="com.example.course.entities.Category"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="com.example.course.repositories.ProductRepository"/>
 <fullyQualifiedTypeName name="javax.persistence.Transient"/>
 <fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
@@ -45,8 +42,13 @@
 <fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
 <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
 <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
-<fullyQualifiedTypeName name="com.example.course.entities.pk.OrderItemPk"/>
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="javax.persistence.EmbeddedId"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="com.example.course.entities.OrderItem"/>
+<fullyQualifiedTypeName name="com.example.course.repositories.OrderItemRepository"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.example.course.entities.pk.OrderItemPk"/>
 </qualifiedTypeNameHistroy>
