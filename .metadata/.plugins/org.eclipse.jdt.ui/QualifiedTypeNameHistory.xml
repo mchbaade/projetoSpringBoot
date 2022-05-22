@@ -31,12 +31,10 @@
 <fullyQualifiedTypeName name="com.example.course.repositories.CategoryRepository"/>
 <fullyQualifiedTypeName name="com.example.course.services.CategoryService"/>
 <fullyQualifiedTypeName name="com.example.course.entities.Category"/>
-<fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="com.example.course.repositories.ProductRepository"/>
 <fullyQualifiedTypeName name="javax.persistence.Transient"/>
 <fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
 <fullyQualifiedTypeName name="javax.persistence.JoinTable"/>
-<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
 <fullyQualifiedTypeName name="com.example.course.entities.Product"/>
 <fullyQualifiedTypeName name="com.example.course.entities.Order"/>
 <fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
@@ -51,4 +49,6 @@
 <fullyQualifiedTypeName name="com.example.course.repositories.OrderItemRepository"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="com.example.course.entities.pk.OrderItemPk"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
 </qualifiedTypeNameHistroy>
