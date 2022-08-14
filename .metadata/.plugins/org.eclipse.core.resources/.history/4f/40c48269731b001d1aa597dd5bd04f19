@@ -1,0 +1,10 @@
+package com.example.course.resources.exceptions;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+
+@ControllerAdvice
+public class ResourceExceptionHandler {
+
+	public Re
+	
+}

@@ -32,6 +32,7 @@ public class UserService {
 		repository.deleteById(id);
 	}
 	
+	@SuppressWarnings("deprecation")
 	public User update(Long id,User obj) {
 		User entity = repository.getOne(id);
 		
